@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Will/Santander/TodoList/app/src/main/res/layout/activity_main.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/Will/Santander/TodoList/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Will/Santander/TodoList/app/src/main/res/layout/activity_new_task.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Will/Santander/TodoList/app/src/main/res/layout/activity_task.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Will/Santander/TodoList/app/src/main/res/layout/activity_teste.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Will/Santander/TodoList/app/src/main/res/layout/item_task.xml" value="0.5" />
+        <entry key="..\:/Users/Will/Santander/TodoList/app/src/main/res/menu/popup_menu.xml" value="0.30925925925925923" />
       </map>
     </option>
   </component>

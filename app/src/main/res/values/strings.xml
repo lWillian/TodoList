@@ -8,4 +8,6 @@
     <string name="Title_tasks">Tarefas</string>
     <string name="Description_new_task">Nova Tarefa</string>
     <string name="hint_descricao">Descrição</string>
+    <string name="editar">Editar</string>
+    <string name="deletar">Deletar</string>
 </resources>
